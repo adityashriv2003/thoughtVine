@@ -1,0 +1,19 @@
+.thumbnail img {
+  width: 100%;
+}
+image{
+  background-image: url("blgweb.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.thumbnail {
+  padding: 0;
+}
+
+.thumbnail .caption-full {
+  padding: 9px;
+}
+
+#delete-form {
+  display: inline;
+}
